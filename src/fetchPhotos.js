@@ -6,7 +6,7 @@ export default class PhotosAPIServise {
     this.searchQuery = '';
     this.page = 1;
     this.BASE_URL = 'https://pixabay.com/api/';
-    this.KEY = '29560891-792771529aa052fb706988eec';
+    this.KEY = '24752012-6c87264ae8b83647fd23322b3';
   }
 
   async fetchPhotos() {
